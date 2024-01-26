@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+
+button{
+    margin-bottom: 20px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.grid-item{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    gap: 10px;
+
+}
+
+
+.grid-item:hover{
+    background-color: rgb(168, 65, 65);
+}
