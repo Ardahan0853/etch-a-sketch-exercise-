@@ -1,0 +1,1 @@
+ozel bir olayi yok. javascript egzersizi bakmaniza gerek yok. merak ediyorsaniz buttona tikladiginiz da sizden prompt girmenizi istiyor girdiginiz prompta bagli olarak kare olusturuyor ve eski olusturulmus kareleri siliyor.
